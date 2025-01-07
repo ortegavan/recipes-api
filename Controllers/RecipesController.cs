@@ -64,17 +64,14 @@ public class RecipesController : ControllerBase
     [HttpPost]
     public IActionResult Post([FromBody] Recipe recipe)
     {
+        recipe.Id = Guid.NewGuid().ToString();
         ds.Save(recipe);
-        return CreatedAtAction(nameof(GetById), new { id = recipe.Id }, recipe);
+        return NoContent();
     }
 
     [HttpPut("{id}")]
     public IActionResult Put(string id, [FromBody] Recipe recipe)
     {
-        if (id != recipe.Id)
-        {
-            return BadRequest("O ID do recurso não corresponde ao ID fornecido.");
-        }
         ds.Save(recipe);
         return NoContent();
     }

@@ -39,6 +39,7 @@ public class FavoritesController : ControllerBase
     [HttpPost]
     public IActionResult Post([FromBody] Favorite favorite)
     {
+        favorite.Id = Guid.NewGuid().ToString();
         ds.Save(favorite);
         return CreatedAtAction(nameof(Get), new { id = favorite.Id }, favorite);
     }

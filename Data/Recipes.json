@@ -16,11 +16,11 @@
         ],
         "Instructions": [
             "Cozinhe o espaguete em água salgada conforme as instruções da embalagem até ficar al dente.",
-            "Enquanto isso, aqueça o azeite em uma frigIdeira grande e refogue o alho até dourar levemente.",
+            "Enquanto isso, aqueça o azeite em uma frigideira grande e refogue o alho até dourar levemente.",
             "Adicione os tomatinhos cereja e cozinhe por cerca de 5 minutos, até começarem a amolecer.",
             "Tempere com sal e pimenta a gosto.",
-            "Escorra o espaguete e adicione à frigIdeira com os tomates.",
-            "Misture bem, adicione o manjericão e mexa rapIdamente.",
+            "Escorra o espaguete e adicione à frigideira com os tomates.",
+            "Misture bem, adicione o manjericão e mexa rapidamente.",
             "Sirva com queijo parmesão ralado por cima."
         ],
         "New": false,
@@ -28,8 +28,8 @@
     },
     {
         "Id": "2",
-        "Name": "Toast de avocado com ovos cozIdos",
-        "Description": "Uma opção deliciosa e saudável de café da manhã ou lanche, com fatias de pão tostado, avocado cremoso e ovos cozIdos.",
+        "Name": "Toast de avocado com ovos cozidos",
+        "Description": "Uma opção deliciosa e saudável de café da manhã ou lanche, com fatias de pão tostado, avocado cremoso e ovos cozidos.",
         "CategoryIds": ["2", "3"],
         "ImagePath": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg",
         "Ingredients": [
@@ -45,7 +45,7 @@
             "Enquanto os ovos cozinham, torre as fatias de pão até ficarem douradas e crocantes.",
             "Amasse o avocado em uma tigela com o suco de limão, e tempere com sal e pimenta a gosto.",
             "Espalhe o avocado amassado sobre as fatias de pão torrado.",
-            "Coloque as metades dos ovos cozIdos sobre o avocado e finalize com folhas de coentro ou salsinha.",
+            "Coloque as metades dos ovos cozidos sobre o avocado e finalize com folhas de coentro ou salsinha.",
             "Sirva imediatamente."
         ],
         "New": true,
@@ -71,8 +71,8 @@
             "Preaqueça o forno a 150°C e forre uma assadeira com papel manteiga.",
             "Peneire a farinha de amêndoas e o açúcar de confeiteiro, misturando bem.",
             "Bata as claras em neve e adicione o açúcar refinado aos poucos, batendo até formar picos firmes.",
-            "Se desejar, adicione o corante alimentício às claras batIdas.",
-            "Incorpore delicadamente a mistura de farinha de amêndoas às claras batIdas, mexendo com uma espátula até obter uma massa homogênea.",
+            "Se desejar, adicione o corante alimentício às claras batidas.",
+            "Incorpore delicadamente a mistura de farinha de amêndoas às claras batidas, mexendo com uma espátula até obter uma massa homogênea.",
             "Coloque a massa em um saco de confeitar e faça pequenos círculos na assadeira.",
             "Deixe os macarons descansarem por 20 minutos antes de assar, para que formem uma película.",
             "Asse por 15 a 18 minutos, até que os macarons estejam firmes ao toque.",
@@ -110,7 +110,7 @@
     {
         "Id": "5",
         "Name": "Ovos pochê no molho de tomate",
-        "Description": "Ovos pochê delicadamente cozIdos em um molho de tomate saboroso, perfeito para um café da manhã reconfortante ou brunch.",
+        "Description": "Ovos pochê delicadamente cozidos em um molho de tomate saboroso, perfeito para um café da manhã reconfortante ou brunch.",
         "CategoryIds": ["2"],
         "ImagePath": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg",
         "Ingredients": [
@@ -125,10 +125,10 @@
             "Pão para acompanhar (opcional)"
         ],
         "Instructions": [
-            "Aqueça o azeite de oliva em uma frigIdeira e refogue a cebola, o alho e os pimentões até que fiquem macios.",
+            "Aqueça o azeite de oliva em uma frigideira e refogue a cebola, o alho e os pimentões até que fiquem macios.",
             "Adicione o molho de tomate e tempere com sal e pimenta a gosto. Deixe cozinhar em fogo baixo por cerca de 10 minutos, para que os sabores se incorporem.",
             "Enquanto o molho cozinha, prepare os ovos pochê: em uma panela pequena, ferva água e depois reduza para fogo baixo. Quebre cada ovo em uma tigela pequena e, delicadamente, deslize os ovos para a água. Cozinhe por cerca de 3-4 minutos, até que as claras estejam firmes, mas as gemas ainda estejam moles.",
-            "Com cuIdado, retire os ovos pochê com uma escumadeira e coloque sobre o molho de tomate.",
+            "Com cuidado, retire os ovos pochê com uma escumadeira e coloque sobre o molho de tomate.",
             "Decore com folhas de manjericão fresco e sirva com pão torrado, se desejar."
         ],
         "New": false,
@@ -137,7 +137,7 @@
     {
         "Id": "6",
         "Name": "Talharim ao molho pesto",
-        "Description": "Uma massa leve e saborosa servIda com um molho pesto fresco de manjericão, pinhões e parmesão.",
+        "Description": "Uma massa leve e saborosa servida com um molho pesto fresco de manjericão, pinhões e parmesão.",
         "CategoryIds": ["1"],
         "ImagePath": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg",
         "Ingredients": [
@@ -154,7 +154,7 @@
             "Cozinhe o talharim em água salgada conforme as instruções da embalagem até ficar al dente. Escorra e reserve.",
             "Enquanto a massa cozinha, prepare o molho pesto: em um processador de alimentos, combine o manjericão, os pinhões, o alho e o queijo parmesão. Pulse até formar uma pasta.",
             "Com o processador ligado, adicione o azeite de oliva em fio até que o pesto fique cremoso. Tempere com sal e pimenta a gosto.",
-            "Misture o pesto ao talharim cozIdo até que toda a massa esteja coberta pelo molho.",
+            "Misture o pesto ao talharim cozido até que toda a massa esteja coberta pelo molho.",
             "Decore com pinhões ou nozes picados por cima, se desejar, e sirva imediatamente."
         ],
         "New": false,
@@ -163,7 +163,7 @@
     {
         "Id": "7",
         "Name": "Morangos com creme de confeiteiro e chantilly",
-        "Description": "Uma sobremesa deliciosa e refrescante de morangos frescos servIdos com creme de confeiteiro suave e finalizada com chantilly.",
+        "Description": "Uma sobremesa deliciosa e refrescante de morangos frescos servidos com creme de confeiteiro suave e finalizada com chantilly.",
         "CategoryIds": ["4"],
         "ImagePath": "https://images.pexels.com/photos/1132558/pexels-photo-1132558.jpeg",
         "Ingredients": [
@@ -171,7 +171,7 @@
             "2 xícaras de leite",
             "4 gemas de ovo",
             "1/2 xícara de açúcar",
-            "1/4 xícara de amIdo de milho (maisena)",
+            "1/4 xícara de amido de milho (maisena)",
             "1 colher de chá de essência de baunilha",
             "1 xícara de chantilly pronto",
             "Raspas de chocolate branco para decorar (opcional)"
@@ -179,7 +179,7 @@
         "Instructions": [
             "Em uma panela, aqueça o leite até começar a formar pequenas bolhas nas bordas, sem deixar ferver.",
             "Em uma tigela, bata as gemas com o açúcar até obter um creme claro e espesso.",
-            "Adicione o amIdo de milho à mistura de gemas e misture bem.",
+            "Adicione o amido de milho à mistura de gemas e misture bem.",
             "Despeje lentamente o leite quente sobre a mistura de gemas, mexendo constantemente para evitar que os ovos cozinhem.",
             "Volte a mistura para a panela e cozinhe em fogo médio, mexendo sempre, até engrossar e obter a consistência de um creme.",
             "Retire do fogo e adicione a essência de baunilha. Misture bem.",
@@ -212,7 +212,7 @@
             "Misture o purê de batata com o ovo, farinha de trigo, queijo parmesão, sal e pimenta a gosto, até formar uma massa homogênea.",
             "Molde a massa em pequenos bolinhos.",
             "Aqueça o óleo em uma panela e frite os bolinhos de batata até dourarem e ficarem crocantes. Escorra em papel toalha.",
-            "Em uma frigIdeira separada, frite as fatias de bacon até ficarem bem crocantes. Deixe esfriar e depois quebre em pedaços pequenos para fazer o crispy de bacon.",
+            "Em uma frigideira separada, frite as fatias de bacon até ficarem bem crocantes. Deixe esfriar e depois quebre em pedaços pequenos para fazer o crispy de bacon.",
             "Sirva os bolinhos de batata quentes, finalizados com o crispy de bacon por cima."
         ],
         "New": false,
@@ -221,9 +221,9 @@
     {
         "Id": "9",
         "Name": "Salmão com molho beurre blanc",
-        "Description": "Filé de salmão grelhado servIdo com o clássico molho beurre blanc, feito com manteiga, vinho branco e chalotas, perfeito para um jantar especial.",
+        "Description": "Filé de salmão grelhado servido com o clássico molho beurre blanc, feito com manteiga, vinho branco e chalotas, perfeito para um jantar especial.",
         "CategoryIds": ["1"],
-        "ImagePath": "https://images.pexels.com/photos/20182311/pexels-photo-20182311/free-photo-of-jantar-janta-refeicao-comIda.jpeg",
+        "ImagePath": "https://images.pexels.com/photos/20182311/pexels-photo-20182311/free-photo-of-jantar-janta-refeicao-comida.jpeg",
         "Ingredients": [
             "2 filés de salmão",
             "1/2 xícara de vinho branco seco",
@@ -236,8 +236,8 @@
         ],
         "Instructions": [
             "Tempere os filés de salmão com sal e pimenta a gosto.",
-            "Aqueça uma frigIdeira com um fio de azeite de oliva e grelhe os filés de salmão por 4-5 minutos de cada lado, até ficarem dourados e cozIdos por dentro. Reserve.",
-            "Na mesma frigIdeira, adicione o vinho branco e as chalotas, cozinhando em fogo baixo até que o líquIdo reduza pela metade.",
+            "Aqueça uma frigideira com um fio de azeite de oliva e grelhe os filés de salmão por 4-5 minutos de cada lado, até ficarem dourados e cozidos por dentro. Reserve.",
+            "Na mesma frigideira, adicione o vinho branco e as chalotas, cozinhando em fogo baixo até que o líquido reduza pela metade.",
             "Aos poucos, adicione a manteiga em cubos, mexendo constantemente até que derreta e forme um molho cremoso.",
             "Adicione o suco de limão e misture bem.",
             "Despeje o molho beurre blanc sobre os filés de salmão e finalize com salsinha picada por cima, se desejar. Sirva imediatamente."

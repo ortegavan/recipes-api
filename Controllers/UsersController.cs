@@ -17,8 +17,8 @@ public class UsersController : ControllerBase
         return Ok(ds.GetById(id));
     }
 
-    [HttpPost]
-    public IActionResult Create([FromBody] User user)
+    [HttpPut("{id}")]
+    public IActionResult Put(string id, [FromBody] User user)
     {
         ds.Save(user);
         return NoContent();

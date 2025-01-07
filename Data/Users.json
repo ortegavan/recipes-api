@@ -1,11 +1,1 @@
-[
-    {
-        "Id": "123456",
-        "CreatedAt": "2024-12-31T01:11:54.652Z",
-        "UpdatedAt": "2024-12-31T01:11:54.652Z",
-        "Name": "Vanessa Ortega",
-        "Email": "ortegavan@live.com",
-        "Birthday": "1980-10-18T10:11:54.652Z",
-        "Password": "123456"
-    }
-]
+[{"Id":"123456","CreatedAt":"2024-12-31T01:11:54.652Z","UpdatedAt":"2025-01-07T19:45:58.787Z","Name":"Vanessa Ortega","Email":"ortegavan@live.com","Birthday":"1980-10-18T10:11:54.652Z","Password":"123456"}]

@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 [Route("api/v1/[controller]")]
 public class CommentsController : ControllerBase
 {
-    private readonly JsonDataService<Comment> ds;
+    private readonly JsonDataService<Review> ds;
 
     public CommentsController()
     {
-        this.ds = new JsonDataService<Comment>("Data/Comments.json");
+        this.ds = new JsonDataService<Review>("Data/Comments.json");
     }
 
     [HttpGet]
@@ -24,8 +24,9 @@ public class CommentsController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Post([FromBody] Comment comment)
+    public IActionResult Post([FromBody] Review comment)
     {
+        comment.Id = Guid.NewGuid().ToString();
         ds.Save(comment);
         return CreatedAtAction(nameof(Get), new { id = comment.Id }, comment);
     }

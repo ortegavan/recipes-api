@@ -17,6 +17,7 @@ public class JsonDataService<T>
         }
 
         var json = File.ReadAllText(_path);
+        Console.WriteLine(json);
         return JsonSerializer.Deserialize<List<T>>(json) ?? [];
     }
 
@@ -39,6 +40,8 @@ public class JsonDataService<T>
 
     public void Save(T item)
     {
+        if (item == null) return;
+
         var data = GetAll().ToList();
         var id = GetId(item);
 

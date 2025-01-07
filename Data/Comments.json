@@ -1,11 +1,1 @@
-[
-    {
-        "CreatedAt": "2024-11-23T01:11:54.652Z",
-        "UserName": "Vanessa Ortega",
-        "UserId": "1",
-        "Rating": 3,
-        "Text": "É bom mas muito difícil de fazer.",
-        "RecipeId": "3",
-        "Id": "1"
-    }
-]
+[{"Id":"7f8d521e-c64e-4c70-be6d-2a638cfb4c56","CreatedAt":"2025-01-07T19:45:38.234Z","UserName":"An\u00F4nimo","UserId":"123456","Rating":3,"Comment":"Receita muito dif\u00EDcil de fazer.","RecipeId":"3"}]
