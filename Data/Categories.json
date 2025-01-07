@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "1",
+        "Name": "Prato principal",
+        "Icon": "dinner"
+    },
+    {
+        "Id": "2",
+        "Name": "Café da manhã",
+        "Icon": "eggs"
+    },
+    {
+        "Id": "3",
+        "Name": "Lanche",
+        "Icon": "burger"
+    },
+    {
+        "Id": "4",
+        "Name": "Sobremesa",
+        "Icon": "pudding"
+    },
+    {
+        "Id": "5",
+        "Name": "Acompanhamento",
+        "Icon": "bread"
+    },
+    {
+        "Id": "6",
+        "Name": "Salada",
+        "Icon": "salad"
+    }
+]
